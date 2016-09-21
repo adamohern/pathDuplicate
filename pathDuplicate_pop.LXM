@@ -1,0 +1,4 @@
+#LXMacro#
+layout.create "Path Constrain" width:250 height:250 style:palette
+viewport.restore newType:attrform
+attr.viewExport {pathDuplicate:sheet} set
