@@ -1,8 +1,6 @@
 #python
 #Constrain to Path And Duplicate Assembly script
 #Author: Erik Karlsson - www.erka.se
-#ver: 0.96
-#sep 21 2016
 
 #Description
 #This script is useful when you want to path constrain multiple objects to a curve. 
